@@ -30,7 +30,7 @@ under the License.
   <groupId>org.apache.maven.wagon</groupId>
   <artifactId>wagon</artifactId>
   <version>2.11-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <name>Apache Maven Wagon</name>
   <description>Tools to manage artifacts and deployment</description>
   <url>http://maven.apache.org/wagon</url>
